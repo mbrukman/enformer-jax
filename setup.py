@@ -22,6 +22,7 @@ setup(
     'einops==0.4',
     'jax>=0.3.4',
     'jaxlib>=0.1',
+    'jmp>=0.0.2',
     'optax>=0.0.9',
     'numpy'
   ],
